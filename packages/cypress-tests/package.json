@@ -1,0 +1,15 @@
+{
+  "name": "@cypress-ts-repro/cypress-tests",
+  "packageManager": "yarn@3.2.2",
+  "scripts": {
+    "test": "yarn cypress open"
+  },
+  "devDependencies": {
+    "@types/cypress": "1.1.3",
+    "@types/node": "16.11.7",
+    "typescript": "4.8.4"
+  },
+  "dependencies": {
+    "cypress": "10.9.0"
+  }
+}

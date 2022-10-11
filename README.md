@@ -1,0 +1,1 @@
+Minimum config required to reproduce an error with Yarn 3, Typescript and Cypress.
